@@ -1,0 +1,28 @@
+{
+ "name": "Pachaiyappa's Trust Elections 2026",
+ "short_name": "PT Elections",
+ "description": "Final Voters List - All 4 Constituencies",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#16102B",
+ "theme_color": "#16102B",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
